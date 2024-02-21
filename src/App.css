@@ -1,0 +1,15 @@
+.container{
+  color:black;
+  margin-top: 150px;
+  margin-left: 250px;
+  border: 2px solid;
+  width: 700px;
+  height: 200px;
+}
+body{
+  background-color: blueviolet;
+}
+.center{
+  text-align: center;
+  line-height: 20px;
+}
